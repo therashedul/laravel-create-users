@@ -1,1 +1,1 @@
-# laravel-create-users
+We can use user CRUD for laravel.
